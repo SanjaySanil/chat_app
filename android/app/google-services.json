@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739506266250",
+    "project_id": "v-connect-7b8ad",
+    "storage_bucket": "v-connect-7b8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739506266250:android:fc6c3ad34ed1c4f1aecd73",
+        "android_client_info": {
+          "package_name": "com.example.v_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739506266250-94ee0cepaa96eb3nsjn5b84as1e0cv57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbilZgGz6DiUOKRVcZ3UQDsili5RFe5Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739506266250-0p0lb5d3jf2rirbdiafvt83jtgab9vcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
