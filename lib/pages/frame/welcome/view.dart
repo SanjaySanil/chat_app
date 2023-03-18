@@ -9,7 +9,7 @@ class WelcomePage extends GetView<WelcomeController> {
 
   Widget _buildPageHeadTitle(String title) {
     return Container(
-      margin:EdgeInsets.only(top:350),
+      margin:const EdgeInsets.only(top:350),
       child: Text(
         title,
         textAlign:TextAlign.center,

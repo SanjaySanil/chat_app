@@ -1,4 +1,4 @@
-class AppRoutes {
+class   AppRoutes {
   static const INITIAL = '/';
   static const SIGN_IN = '/sign_in';
   static const EmailLogin = '/email_login';
